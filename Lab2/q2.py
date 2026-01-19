@@ -14,3 +14,7 @@ for i in range(len(x)):
 
 # Print result
 print("Dot Product:", dot_product)
+
+
+#OUTPUT
+# Dot Product: 8

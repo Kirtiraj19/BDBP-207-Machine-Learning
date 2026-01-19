@@ -24,3 +24,10 @@ cov_matrix = (X_c.T @ X_c) / (n - 1)
 
 print("Covariance Matrix:")
 print(cov_matrix)
+
+
+#OUTPUT
+# Covariance Matrix:
+# [[ 0.7  -0.25 -0.25]
+#  [-0.25  0.5  -0.25]
+#  [-0.25 -0.25  0.5 ]]

@@ -8,7 +8,7 @@ from sklearn.metrics import mean_squared_error
 from sklearn.metrics import r2_score
 from sklearn.svm import SVR
 from sklearn.ensemble import RandomForestClassifier
-import matplotlib.py
+
 
 def load_data():
     [X, y] = fetch_california_housing(return_X_y=True)

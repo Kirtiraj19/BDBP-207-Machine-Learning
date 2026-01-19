@@ -19,3 +19,11 @@ while x <= stop:
 # Print first 5 values
 for i in range(5):
     print("x =", x_values[i], "y =", y_values[i])
+
+
+#Output
+# x = -100 y = -197
+# x = -98.0 y = -193.0
+# x = -96.0 y = -189.0
+# x = -94.0 y = -185.0
+# x = -92.0 y = -181.0
