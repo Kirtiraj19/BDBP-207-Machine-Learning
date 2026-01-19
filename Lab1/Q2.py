@@ -1,6 +1,5 @@
 # Implement y = 2x1 + 3 and plot x1, y [start=-100, stop=100, num=100]
 
-
 x_values = []
 y_values = []
 

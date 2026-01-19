@@ -1,3 +1,5 @@
+#Implement y = 2x12 + 3x1 + 4 and plot x1, y in the range [start=--10, stop=10, num=100]
+
 x_values = []
 y_values = []
 
